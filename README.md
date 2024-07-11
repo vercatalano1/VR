@@ -1,0 +1,2 @@
+# tirocinio
+stanza virtuale
